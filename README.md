@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hello! 👋
+Welcome to my Github Page. Here you can find a list of all Academic & Personal Projects that I have completed.
 
 <!--
 **its-rich/its-rich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,17 +36,20 @@ To comply with academic integrity, only a few of these projects have been made p
 * Created the [COVID-Awareness-Website](https://github.com/its-rich/COVID-Awareness-Website)
   * React
   * Firebase
-* Created a simple voluntary contributions website
+* Created a [voluntary contributions calculator](https://econ3117.web.app/)
   * React
   * Firebase
 * Created a Reddit clone
   * Native JavaScript & CSS
 
 **Java**
-* Created a Client-Server Multi-threaded forum
+* Created a CLI Client-Server Multi-threaded forum
 * Created a Dungeon Puzzle Game
   * JavaFX
-* Created a Venue Hire back-end System
+* Created a CLI Venue Hire back-end System
 
 **Unix Bash**
 * Created a simple GitHub clone
+
+## Personal Projects
+* AWS E-Commerce Website (https://github.com/its-rich/AWS-E-Commerce-Website)
