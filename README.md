@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Academic Projects
-To comply with academic integrity, only a few of these projects have been made pubic.
+To comply with academic integrity, only a few of these projects have been made public.
 
 **C**
 * Implemented a virtual memory sub-system for Harvard's OS/161
-* Created an informational retrieval I/O program based on tf-idf
+* Created a CLI informational retrieval I/O program based on tf-idf
 * Created a simple shell clone
 
 **Python**
@@ -30,7 +30,7 @@ To comply with academic integrity, only a few of these projects have been made p
   * Firebase
 * Created Python scripts that interact with a PostgreSQL database
   * Psycopg2
-* Created a Healthcare Appointment Management System
+* Created a Healthcare Appointment Management System Website
   * Flask
   * Pickle
 
@@ -41,7 +41,7 @@ To comply with academic integrity, only a few of these projects have been made p
 * Created a [voluntary contributions calculator](https://github.com/its-rich/Voluntary-Contributions-Calculator-App)
   * React
   * Firebase
-* Created a Reddit clone
+* Created a Reddit clone website
   * Native JavaScript & CSS
 
 **Java**
