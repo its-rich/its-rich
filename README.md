@@ -3,7 +3,7 @@ Welcome to my Github Page!
 
 Here you can find a list of all Academic & Personal Projects that I have completed.
 
-All links redirect to the project's respective repo, where you can find a link to the any interactable material if applicable.
+All links redirect to the project's respective repo, where you can find a link to any interactable material if applicable.
 
 ## Academic Projects
 To comply with academic integrity, only a few of these projects have been made public.
@@ -46,7 +46,7 @@ To comply with academic integrity, only a few of these projects have been made p
 ## Personal Projects
 * Completed
   * [HotBuys](https://github.com/its-rich/HotBuys)
-    * A website where you can input a product and find which selected stores sell it the cheapest
+    * A website where you can search for a product and find which selected stores sell it the cheapest
 
 * TODO
   * [AWS E-Commerce Website](https://github.com/its-rich/AWS-E-Commerce-Website)
