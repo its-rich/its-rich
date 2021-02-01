@@ -6,13 +6,13 @@ To comply with academic integrity, only a few of these projects have been made p
 
 <img src="images/c_icon.png" width=50>
 
-* Implemented a virtual memory sub-system for Harvard's OS/161
+* Implemented a virtual memory sub-system for [Harvard's OS/161](http://os161.eecs.harvard.edu/)
 * Created a CLI informational retrieval I/O program based on tf-idf
 * Created a simple shell clone
 
 <img src="images/python_icon.png" width=50>
 
-* Created an API which would return any WHO Disease Outbreak Reports that included queried terms (COVID-Awareness-Website) [[Repo]](https://github.com/its-rich/COVID-Awareness-Website) [[API]](https://asia-northeast1-seng3011-api.cloudfunctions.net/report)
+* Created an API which would return any WHO Disease Outbreak News reports that included queried terms (COVID-Awareness-Website) [[Repo]](https://github.com/its-rich/COVID-Awareness-Website) [[API]](https://asia-northeast1-seng3011-api.cloudfunctions.net/report)
   * Firebase
   * Google Cloud Functions
 * Created Python scripts that interact with a PostgreSQL database
@@ -39,17 +39,15 @@ To comply with academic integrity, only a few of these projects have been made p
   * JavaFX
 * Created a CLI Venue Hire back-end System
 
-**Unix Bash**
-
-<img src="images/shell_icon.jpg" width=50>
+<img src="images/shell_icon.png" width=50> **Unix Bash**
 
 * Created a simple GitHub clone
   * Some features were also written in **Perl**
 
 ## Personal Projects
-* Completed
-  * HotBuys [[Repo]](https://github.com/its-rich/HotBuys) [[Website]](https://main.d2xbdqzx6twygh.amplifyapp.com/)
-    * A website where you can search for a product and find which selected stores sell it the cheapest
+**Completed:**
+* HotBuys [[Repo]](https://github.com/its-rich/HotBuys) [[Website]](https://main.d2xbdqzx6twygh.amplifyapp.com/)
+  * A website where you can search for a product and find which selected stores sell it the cheapest
 
-* TODO
-  * AWS E-Commerce Website [[Repo]](https://github.com/its-rich/AWS-E-Commerce-Website)
+**In Progress:**
+* AWS E-Commerce Website [[Repo]](https://github.com/its-rich/AWS-E-Commerce-Website)
